@@ -1,4 +1,4 @@
-package com.example.sql_6a;
+package com.example.myapplication;
 
 import org.junit.Test;
 
